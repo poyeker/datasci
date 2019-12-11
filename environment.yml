@@ -17,3 +17,5 @@ dependencies:
   - dfply
   - wordcloud
   - jieba
+  - gensim
+  - sklearn
